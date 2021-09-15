@@ -1,0 +1,196 @@
+/* stling for webpage */
+html { 
+box-sizing: border-box;     
+border-left: 10em solid #605C3C;
+border-right: 10em solid #605C3C;
+
+}
+
+/* stylong for all */
+* {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+/* styling for body */
+body {
+background-color: #d9dcd6; 
+width: 80%;
+margin-left:auto;
+margin-right:auto;      
+}
+
+/* styling for h1 h2 */
+h1 {
+letter-spacing: .3em;
+font-size: 4em;
+margin-bottom: 0.1em;
+
+}
+
+.project2 h2 {
+text-align: center;
+font-size: 1.5em;
+
+}
+.project3 h2 {
+text-align: center;
+font-size: 1.5em;
+}
+
+ /* p font size */
+p { 
+font-size: 1.5em;
+margin-block-start: 0em;
+margin-block-end: 0em;
+}
+
+.header_nav { color: #ffffff; }
+
+.aboutlinks  {
+padding-bottom: 5em;
+letter-spacing: .3em;
+}
+
+#projects p {
+text-align: center;
+font-size: 1.3em;
+letter-spacing: .3em; 
+}
+
+.projects_other {
+text-align: center;
+font-size: 1em;
+letter-spacing: .3em;  
+
+}
+
+/* header postioning */
+.header_nav div {     
+float: right;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}   
+
+/* styling for contact */
+#contact{
+text-align: center;
+padding-bottom: 5em;
+letter-spacing: .3em;
+}
+
+/* styling for about section */
+#about {
+display: flex;    
+width: 80%;
+height:100%;   
+margin-top: 5em;
+margin-bottom: 5em;
+margin-left:auto;
+margin-right:auto;
+}
+
+/* alignment for column left*/
+.column-left {
+width: 60%;
+padding-left: 1em;
+padding-right: 2em;
+padding-bottom: 2em;
+height: 20em;    
+overflow:auto;  
+}
+
+/* alignment for column right */
+.column-right{
+width: 40%;      
+height: 20em;    
+
+}  
+
+.column-right img {
+margin-left: auto;
+margin-right: auto;
+border-radius: 300px;
+
+}
+
+/* alignment for prje pic */
+.latest_project_pic  {
+ width: 100%;
+ 
+   
+}
+
+.latest_project_pic img {
+width: 100%;
+object-fit: contain;
+border: 10px solid #605C3C;
+margin-bottom: 5em;
+}
+
+/* project pic contain and image sizing */
+.project1_pic {
+ width: 100%;
+ margin-bottom: 5em;
+  
+}
+
+.project1_pic img {
+width: 60%;
+height: 20vw;
+margin-left: auto;
+margin-right: auto;
+border: 10px solid #605C3C
+
+}
+
+.project2_pic {
+width: 80%;
+height: 20vw;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 8em;
+}
+
+.project2_pic img {
+width: 100%;
+height: 20vw; 
+object-fit: cover;
+border: 10px solid #605C3C
+
+}
+
+.project3_pic {
+width: 90%;
+height:20vw; 
+margin-left: auto;
+margin-right: auto;
+
+}
+   
+.project3_pic img {
+width: 100%;
+height: 20vw; 
+object-fit: cover;
+border: 10px solid #605C3C
+}
+
+/* stying for footer content */
+footer { margin-top: 5em; }
+
+/* styling for footer links */
+a {  
+color: purple;
+text-decoration: none;    
+padding: .3em;
+font-size: 1.5em;
+}
+
+/* styling for contact */
+#contact{
+text-align: center;
+padding-bottom: 5em;
+letter-spacing: .3em;
+}
+
+
+
+
+ 
