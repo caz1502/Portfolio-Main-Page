@@ -1,7 +1,7 @@
 
 # Portfolio
 
-Live Application Link 👀 **https://caz1502.github.io/Portfolio-Landing-/**
+Live Application Link 👀 **https://caz1502.github.io/Portfolio-Main-Page/**
 
 
 Built With 🧰
