@@ -42,7 +42,8 @@ Project Visual 🤘
 
 Website Image
 
-![Landing Preview](./assets/images/Myportfolio.png)
+![Main Portfolio](assets/images/Myportfolio.PNG)
+
 
 
 
