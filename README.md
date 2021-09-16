@@ -42,7 +42,7 @@ Project Visual 🤘
 
 Website Image
 
-![Landing Preview](./assets/images/landingportfolio.png)
+![Landing Preview](./assets/images/Myportfolio.png)
 
 
 
